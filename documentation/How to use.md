@@ -1,0 +1,1 @@
+while you can open this in any markdown editor I recommend opening the documentation directory in obsidian because of obsidian's file linking
